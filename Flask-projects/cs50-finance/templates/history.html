@@ -1,0 +1,49 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    History
+{% endblock %}
+
+{% block main %}
+    <h1 class="">Shares History</h1>
+    <table class=" table tablestriped white">
+        <thead id="theadshares">
+            <tr>
+                <th class="text-start head">Symbol</th>
+                <th class="text-end head">Shares</th>
+                <th class="text-end head">Price</th>
+                <th class="text-end head">Transacted</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Loop through the database entries to display them in this table -->
+            {% for transaction in user_transactions %}
+                <tr>
+                    <td class="text-start data">{{ transaction["symbol"] }}</td>
+                    <td class="text-end data">{{ transaction["shares"]}}</td>
+                    <td class="text-end data">{{ transaction["price"] | usd}}</td>
+                    <td class="text-end data">{{ transaction["transacted"]}}</td>
+                </tr>
+            {% endfor %}
+    </table><br><br><br><br><br><br>
+
+    <h1 class="">Cash added History</h1>
+    <table class=" table tablestriped white">
+        <thead id="theadcash">
+            <tr >
+                <th class="text-start head">Amount</th>
+                <th class="text-end head">Transacted</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Loop through the database entries to display them in this table -->
+            {% for cash_transaction in cash_added_transactions %}
+                <tr>
+                    <td class="text-start data">{{ cash_transaction["amount"] }}</td>
+                    <td class="text-end data">{{ cash_transaction["transacted"]}}</td>
+                </tr>
+            {% endfor %}
+    </table>
+{% endblock %}
+
+

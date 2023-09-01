@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Settings
+{% endblock %}
+
+{% block main %}
+<div class="card" style="text-align: left">
+    <div class="card-header" id="text-start">
+        Account
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">User Credentials</h5><br>
+        <p class="fw-lighter text-muted" >USERNAME</p>
+        <p class="fw-bold" style='margin: 0'>{{username}}</p><br>
+        <p class="fw-lighter text-muted" >Balance</p>
+        <p class="fw-bold" style='margin: 0'>{{balance}}</p><br>
+
+        <a href="/passwordupdate" class="btn btn-primary">Change password</a>
+        <a href="/addcash" class="btn btn-primary">Add Cash</a>
+    </div>
+</div>
+
+{% endblock %}
+
+

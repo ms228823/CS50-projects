@@ -1,0 +1,38 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Log In
+{% endblock %}
+
+{% block main %}
+
+    <div class="container sign-in">
+        <div class="signin-content">
+            <div class="signin-image">
+                <figure><img src="/static/images/money.png" alt="sing up image"></figure>
+                <a href="/register" class="signup-image-link">Create an account</a>
+            </div>
+            <div class="signin-form">
+                <h2 class="form-title">Sign in</h2>
+                <form form action="/login" method="post">
+                    <div class="form-group">
+                        <label for="your_name"><i class="bi bi-person-fill"></i></label>
+                        <input type="text" name="username" id="Username" placeholder="username" required/>
+                    </div>
+                    <div class="form-group">
+                        <label for="your_pass"><i class="bi bi-lock-fill"></i></label>
+                        <input type="password" name="password" id="Password" placeholder="password" required/>
+                    </div>
+                    <div class="form-group form-button">
+
+                        <button type="submit" id="signin" class="form-submit" value="Log in">Sign in</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}
+
+
+

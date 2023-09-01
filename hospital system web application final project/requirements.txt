@@ -1,0 +1,8 @@
+cs50
+Flask
+Flask-session
+Jinja2
+requests
+Werkzeug
+pytz
+requests

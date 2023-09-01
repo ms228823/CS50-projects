@@ -1,0 +1,42 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Main
+{% endblock %}
+
+{% block main %}
+    <table class="table tablestriped white">
+        <thead  class="thead-dark"><!-- id="theadmain" -->
+            <tr>
+                <th class="text-start head">Symbol</th>
+                <th class="text-start head">Name</th>
+                <th class="text-end head">Shares</th>
+                <th class="text-end head">Price</th>
+                <th class="text-end head">TOTAL</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Loop through the database entries to display them in this table -->
+            {% for share in user_portfolio %}
+                <tr>
+                    <td class="text-start data">{{ share["symbol"] }}</td>
+                    <td class="text-start data">{{ share["name"]}}</td>
+                    <td class="text-end data">{{ share["SUM(shares)"]}}</td>
+                    <td class="text-end data">{{ share["currentprice"] | usd}}</td>
+                    <td class="text-end data">{{ share["totalprice"] | usd}}</td>
+                </tr>
+            {% endfor %}
+        <tfoot>
+            <tr>
+                <td class="border-0 fw-bold text-end" colspan="4">Cash</td>
+                <td class="border-0 text-end">{{user_cash[0]["cash"] | usd}}</td>
+            </tr>
+            <tr>
+                <td class="border-0 fw-bold text-end" colspan="4">TOTAL</td>
+                <td class="border-0 w-bold text-end">{{(user_cash[0]["cash"] + current_worth) | usd}}</td>
+            </tr>
+        </tfoot>
+    </table>
+{% endblock %}
+
+

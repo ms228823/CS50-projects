@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Register
+{% endblock %}
+
+{% block main %}
+
+    <div class="container signup">
+        <div class="signup-content">
+            <div class="signup-form">
+                <h2 class="form-title">Register</h2>
+                <form action="/register" method="POST" class="register-form" id="register-form">
+                    <div class="form-group">
+                        <label for="name"><i class="bi bi-person-fill"></i></label>
+                        <input type="text"  autocomplete="off" autofocus name="username" id="name" placeholder="username"  required/>
+                    </div>
+                    <div class="form-group">
+                        <label for="pass"><i class="bi bi-lock-fill"></i></label>
+                        <input type="Password" name="password" id="pass" placeholder="password" required/>
+                    </div>
+                    <div class="form-group">
+                        <label for="re-pass"><i class="bi bi-lock"></i></label>
+                        <input type="password" name="confirmation" id="re_pass" placeholder="Repeat your password" required/>
+                    </div>
+                    <div class="form-group form-button">
+                        <button type="submit" class="btn btn-primary form-submit">Register</button>
+                    </div>
+                </form>
+            </div>
+            <div class="signup-image">
+                <figure><img src="/static/images/refugees.png" alt="sing up image"></figure>
+                <a href="/login" class="signup-image-link">I am already member</a>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}
+
+

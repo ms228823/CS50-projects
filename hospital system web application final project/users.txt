@@ -1,0 +1,7 @@
+firstname,middle_name,last_name,username,password,role
+David,J.,Malan,DavidJMalan,cs50,admin
+Mohammed,,sameh,MohammedSameh,eg01,admin
+John,,Smith,JohnSmith,cs1658,reception manager
+Jane,,Doe,JaneDoe,cs6987,reception
+Sarah,,Max,SarahMax,fal667,reception
+Fatima,,Hossam,FatimaHossam,lxm989,reporter
