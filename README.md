@@ -1,7 +1,7 @@
 # [![harvard](https://pll.harvard.edu/themes/custom/twel_scholar/favicon.ico) CS50 projects](https://github.com/ms228823/CS50-projects)
 
 ## Week 0 Scratch 🐱
-### - Scratch 
+#### - Scratch 
 
 ## [Week 1 C ⌨️](https://github.com/ms228823/CS50-projects/tree/main/C-projects/Week-1)
 ### - Lab 1: Population
