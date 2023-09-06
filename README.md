@@ -3,7 +3,7 @@
 ## Week 0 Scratch 🐱
 ### - Scratch 
 
-## [Week 1 C ⌨️] (https://github.com/ms228823/CS50-projects/tree/main/C-projects/Week-1)
+## [Week 1 C ⌨️](https://github.com/ms228823/CS50-projects/tree/main/C-projects/Week-1)
 ### - Lab 1: Population
 ### - Hello
 ### - Mario (Less)
