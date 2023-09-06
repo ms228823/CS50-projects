@@ -1,34 +1,34 @@
 # [](https://pll.harvard.edu/themes/custom/twel_scholar/favicon.ico) CS50 projects
 
-##  [Week 0 Scratch 🐱](https://github.com/ms228823/CS50-projects/tree/main/C-projects/Week-0)
+## Week 0 Scratch 🐱
 ### - Scratch 
 
-## (https://github.com/ms228823/CS50-projects/tree/main/C-projects/Week-1) [Week 1 C ⌨️]
+## [Week 1 C ⌨️] (https://github.com/ms228823/CS50-projects/tree/main/C-projects/Week-1)
 ### - Lab 1: Population
 ### - Hello
 ### - Mario (Less)
 ### - Credit
 
-## (https://github.com/ms228823/CS50-projects/tree/main/C-projects/Week-2) Week 2 Arrays 🗄️
+## [Week 2 Arrays 🗄️] (https://github.com/ms228823/CS50-projects/tree/main/C-projects/Week-2)
 ### - Lab 2: Scrabble
 ### - Readability
 ### - Caesar
 
-## (https://github.com/ms228823/CS50-projects/tree/main/C-projects/Week-3) Week 3 Algorithms 📝
+## [Week 3 Algorithms 📝] (https://github.com/ms228823/CS50-projects/tree/main/C-projects/Week-3)
 ### - Lab 3: Sort
 ### - Plurality
 ### - Runoff 
 
-## (https://github.com/ms228823/CS50-projects/tree/main/C-projects/Week-4) Week 4 Memory 🧠
+## [Week 4 Memory 🧠] (https://github.com/ms228823/CS50-projects/tree/main/C-projects/Week-4)
 ### - Lab 4: Volume 
 ### - Filter (More)
 ### - Recover 
 
-## (https://github.com/ms228823/CS50-projects/tree/main/C-projects/Week-5) Week 5 Data Structures 🗃️
+## [Week 5 Data Structures 🗃️] (https://github.com/ms228823/CS50-projects/tree/main/C-projects/Week-5)
 ### - Lab 5: Inheritance
 ### - Speller
 
-## (https://github.com/ms228823/CS50-projects/tree/main/Python-projects) Week 6 Python 🐍
+## [Week 6 Python 🐍] (https://github.com/ms228823/CS50-projects/tree/main/Python-projects)
 ### - Lab 6: World Cup
 ### - Sentimental / Hello
 ### - Sentimental / Mario (Less)
@@ -36,18 +36,18 @@
 ### - Sentimental / Readability
 ### - DNA
 
-## (https://github.com/ms228823/CS50-projects/tree/main/SQL-projects) Week 7 SQL 🔍
+## [Week 7 SQL 🔍] (https://github.com/ms228823/CS50-projects/tree/main/SQL-projects)
 ### - Lab 7: Songs
 ### - Movies
 ### - Fiftyville
 
-## (https://github.com/ms228823/CS50-projects/tree/main/HTML%2C%20CSS%26%20JS-projects) Week 8 HTML, CSS, JavaScript 🕸️
+## [Week 8 HTML, CSS, JavaScript 🕸️] (https://github.com/ms228823/CS50-projects/tree/main/HTML%2C%20CSS%26%20JS-projects)
 ### - Lab 8: Trivia
 ### - Homepage
 
-## (https://github.com/ms228823/CS50-projects/tree/main/Flask-projects) Week 9 Flask 🧪
+## [Week 9 Flask 🧪] (https://github.com/ms228823/CS50-projects/tree/main/Flask-projects)
 ### - Lab 9: Birthdays
 ### - Finance
 
-## (https://github.com/ms228823/CS50-projects/tree/main/hospital%20system%20web%20application%20final%20project) Final Project
-### - Hospital system (web appliction)
+## [Final Project] (https://github.com/ms228823/CS50-projects/tree/main/hospital%20system%20web%20application%20final%20project)
+### - Hospital system (web application)
