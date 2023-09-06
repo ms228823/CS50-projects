@@ -1,4 +1,4 @@
-# [![harvard](https://pll.harvard.edu/themes/custom/twel_scholar/favicon.ico) CS50 projects](https://github.com/ms228823/CS50-projects)
+# [![harvard](https://pll.harvard.edu/themes/custom/twel_scholar/favicon.ico)CS50 projects](https://github.com/ms228823/CS50-projects)
 ### This is cs50 projects in Programming Languages (C programming language⌨️, Python🐍, SQL programming language🔍, Flask framework🧪)
 ## Week 0 Scratch 🐱
 ### - Scratch 
