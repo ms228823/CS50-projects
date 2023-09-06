@@ -1,6 +1,6 @@
 # ![Alt text](https://pll.harvard.edu/themes/custom/twel_scholar/favicon.ico) CS50 projects
 
-# <span style='color: #008000;'>Week 0: </span>
+## <span style='color: #008000;'>Week 0: </span>
  Scratch
 
 # <span style='color: #008000;'>Week 1: </span>
