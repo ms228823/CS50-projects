@@ -7,22 +7,22 @@
 ### Lab 1: Population
 ### Hello
 ### Mario (Less)
-### Cash or Credit
+### Credit
 
 ## Week 2 Arrays 🗄️
 ### Lab 2: Scrabble
 ### Readability
-### Bulbs, Caesar, Substitution or Wordle50
+### Caesar
 
 ## Week 3 Algorithms 📝
 ### Lab 3: Sort
 ### Plurality
-### Runoff or Tideman
+### Runoff 
 
 ## Week 4 Memory 🧠
-### Lab 4: Volume or Smiley
+### Lab 4: Volume 
 ### Filter (More)
-### Recover or Reverse
+### Recover 
 
 ## Week 5 Data Structures 🗃️
 ### Lab 5: Inheritance
@@ -31,7 +31,7 @@
 ## Week 6 Python 🐍
 ### Lab 6: World Cup
 ### Sentimental / Hello
-### Sentimental / Mario (Less) or Mario (More)
+### Sentimental / Mario (Less)
 ### Sentimental / Cash or Credit
 ### Sentimental / Readability
 ### DNA
