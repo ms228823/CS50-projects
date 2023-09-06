@@ -2,7 +2,9 @@
 
 <span style='color: #008000;'>Week 0</span>
  Scratch
- 
+ ```html
+   <span style='color: #008000;'>Week 0</span>
+```
 <span style='color: #008000;'>Week 1</span>
  Lab 1: Population
  Hello
