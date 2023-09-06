@@ -1,34 +1,34 @@
 # ![Alt text](https://pll.harvard.edu/themes/custom/twel_scholar/favicon.ico) CS50 projects
 
-## <span style='color: #008000;'>Week 0: </span>
+## Week 0 Scratch 🐱</span>
 ### Scratch
 
-## <span style='color: #008000;'>Week 1: </span>
+## Week 1 C ⌨️
 ### Lab 1: Population
 ### Hello
 ### Mario (Less) or Mario (More)
 ### Cash or Credit
 
-## <span style='color: #008000;'>Week 2: </span>
+## Week 2 Arrays 🗄️
 ### Lab 2: Scrabble
 ### Readability
 ### Bulbs, Caesar, Substitution or Wordle50
 
-## <span style='color: #008000;'>Week 3: </span>
+## Week 3 Algorithms 📝
 ### Lab 3: Sort
 ### Plurality
 ### Runoff or Tideman
 
-## <span style='color: #008000;'>Week 4: </span>
+## Week 4 Memory 🧠
 ### Lab 4: Volume or Smiley
 ### Filter (Less) or Filter (More)
 ### Recover or Reverse
 
-## <span style='color: #008000;'>Week 5: </span>
+## Week 5 Data Structures 🗃️
 ### Lab 5: Inheritance
 ### Speller
 
-## <span style='color: #008000;'>Week 6: </span>
+## Week 6 Python 🐍
 ### Lab 6: World Cup
 ### Sentimental / Hello
 ### Sentimental / Mario (Less) or Mario (More)
@@ -36,16 +36,16 @@
 ### Sentimental / Readability
 ### DNA
 
-## <span style='color: #008000;'>Week 7: </span>
+## Week 7 SQL 🔍
 ### Lab 7: Songs
 ### Movies
 ### Fiftyville
 
-## <span style='color: #008000;'>Week 8: </span>
+## Week 8 HTML, CSS, JavaScript 🕸️
 ### Lab 8: Trivia
 ### Homepage
 
-## <span style='color: #008000;'>Week 9: </span>
+## Week 9 Flask 🧪
 ### Lab 9: Birthdays
 ### Finance
 
