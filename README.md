@@ -6,7 +6,7 @@
 ## Week 1 C ⌨️
 ### Lab 1: Population
 ### Hello
-### Mario (Less) or Mario (More)
+### Mario (Less)
 ### Cash or Credit
 
 ## Week 2 Arrays 🗄️
@@ -21,7 +21,7 @@
 
 ## Week 4 Memory 🧠
 ### Lab 4: Volume or Smiley
-### Filter (Less) or Filter (More)
+### Filter (More)
 ### Recover or Reverse
 
 ## Week 5 Data Structures 🗃️
