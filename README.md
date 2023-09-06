@@ -1,4 +1,4 @@
-# ![Alt text](https://pll.harvard.edu/themes/custom/twel_scholar/favicon.ico) CS50 projects
+# !(https://pll.harvard.edu/themes/custom/twel_scholar/favicon.ico) CS50 projects
 
 ## Week 0 Scratch 🐱</span>
 ### - Scratch
