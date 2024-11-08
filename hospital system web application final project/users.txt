@@ -1,0 +1,7 @@
+firstname,middle_name,last_name,username,password,role,status
+David,J.,Malan,DavidJMalan,cs50,admin,"Working"
+Mohammed,,sameh,MohammedSameh,eg01,admin,"Working"
+John,,Smith,JohnSmith,cs1658,Reception manager,"Working"
+Jane,,Doe,JaneDoe,cs6987,receptionist,"Working"
+Sarah,,Max,SarahMax,fal667,receptionist,"Working"
+Fatima,,Hossam,FatimaHossam,lxm989,reporter,"Working"
